@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dasd
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
@@ -25,3 +26,6 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# sample
+>>>>>>> e509d687ad03d8901fa2df03e9e6025c8f08829c
